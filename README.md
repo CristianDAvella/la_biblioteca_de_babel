@@ -24,4 +24,4 @@ El mismo proyecto decide usar las 26 letras del alfabeto inglés. También nos c
 
 # Pregunta 2.2: ¿Se podría realizar una biblioteca con el alfabeto fonético internacional?
 
-El alfabeto fonético internacional (AFI) fue creado para transcribir cualquier lengua del mundo.
+El alfabeto fonético internacional (AFI) fue creado para transcribir cualquier lengua del mundo. Basado en los simbolos griegos.
