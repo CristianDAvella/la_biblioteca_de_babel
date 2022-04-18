@@ -22,6 +22,9 @@ Según esto, la biblioteca de Borges quedaría con el siguiente alfabeto: a, b, 
 
 El mismo proyecto decide usar las 26 letras del alfabeto inglés. También nos cuenta que puede haber tantas bibliotecas de babel como sistemas simbólicos existan y anima a que desarrollemos una de estas bibliotecas. Lo que me lleva a la pregunta. 
 
-# Pregunta 2.2: ¿Se podría realizar una biblioteca con el alfabeto fonético internacional?
+## Pregunta 2.2: ¿Se podría realizar una biblioteca con el alfabeto fonético internacional?
 
-El alfabeto fonético internacional (AFI) fue creado para transcribir cualquier lengua del mundo. Basado en los símbolos griegos (pero sin que su sonido corresponda necesariamente al original).
+El alfabeto fonético internacional (AFI) fue creado para transcribir cualquier lengua del mundo. Basado en los símbolos griegos y latinos (pero sin que su sonido corresponda necesariamente al original). Cada símbolo corresponde a un sonido producido en alguna lengua humana. En este sentido, si permutamos cada uno de los símbolos en teoría, podríamos conseguir una biblioteca total. El verdadero inconveniente es como hacerlo.
+
+## Pregunta 2.3: ¿Existe algún formato de codificación de caracteres donde se encuentren los símbolos de AFI?
+
