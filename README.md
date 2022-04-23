@@ -31,4 +31,4 @@ El alfabeto fonético internacional (AFI) fue creado para transcribir cualquier 
 UTF-8 uno de los sistemas de codificación de caracteres más utilizados, soporta perfectamente los símbolos del AFI. Ya que, este puede representar cualquier carácter del estándar Unicode. A su vez, el estándar Unicode contempla los caracteres latinos y griegos. Además de facilitar las variaciones que el AFI aplica a estos símbolos.
 
 ## Conclusión:
-Para la presente biblioteca se usarán los 107 símbolos básicos y 55 modificadores del alfabeto fonético internacional.
+Para la presente biblioteca se usarán los 107 símbolos básicos y 55 modificadores del alfabeto fonético internacional. los cuales son...
