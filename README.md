@@ -31,4 +31,6 @@ El alfabeto fonético internacional (AFI) fue creado para transcribir cualquier 
 UTF-8 uno de los sistemas de codificación de caracteres más utilizados, soporta perfectamente los símbolos del AFI. Ya que, este puede representar cualquier carácter del estándar Unicode. A su vez, el estándar Unicode contempla los caracteres latinos y griegos. Además de facilitar las variaciones que el AFI aplica a estos símbolos.
 
 ## Conclusión:
-Para la presente biblioteca se usarán los 107 símbolos básicos y 55 modificadores del alfabeto fonético internacional. los cuales son...
+Para la presente biblioteca se usarán los 107 símbolos básicos y 55 modificadores del alfabeto fonético internacional.
+
+Empezando por los 107 símbolos, estos se dividen entre vocales y letras. Las vocales son fundamentales porque se encuentran en el núcleo de cada sílaba. Es decir, cada golpe de voz producido por el aparato fonético humano lleva consigo una vocal más explícita o implícitamente. Los símbolos de las vocales son los siguientes:
