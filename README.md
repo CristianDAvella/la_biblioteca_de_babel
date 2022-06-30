@@ -33,4 +33,4 @@ UTF-8 uno de los sistemas de codificación de caracteres más utilizados, soport
 ## Conclusión:
 Para la presente biblioteca se usarán los 107 símbolos básicos y 55 modificadores del alfabeto fonético internacional.
 
-Empezando por los 107 símbolos, estos se dividen entre vocales y letras. Las vocales son fundamentales porque se encuentran en el núcleo de cada sílaba. Es decir, cada golpe de voz producido por el aparato fonético humano lleva consigo una vocal más explícita o implícitamente. Los símbolos de las vocales son los siguientes:
+Empezando por los 107 símbolos, estos se dividen entre letras, diacriticos y subrasegmentales. A su vez, las letras se dividen entre vocales y consonantes. Las vocales son fundamentales porque se encuentran en el núcleo de cada sílaba. Es decir, cada golpe de voz producido por el aparato fonético humano lleva consigo una vocal más explícita o implícitamente. Los símbolos de las vocales son los siguientes: i, y, ɯ, u, ɪ, ʏ, ʊ, e, ɘ, ɤ, o, ə, ɛ, œ, ɜ, ɞ, ʌ, ɔ, æ, ɐ, a, ɶ, ɑ, ɒ
