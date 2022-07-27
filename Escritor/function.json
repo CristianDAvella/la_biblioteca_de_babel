@@ -20,7 +20,7 @@
       "type": "blob",
       "direction": "out",
       "name": "Biblioteca",
-      "path": "outcontainer/{rand-guid}",
+      "path": "biblioteca-container/prueba",
       "connection": "AzureWebJobsStorage"
     }
   ]
